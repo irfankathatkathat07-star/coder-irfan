@@ -1,0 +1,18 @@
+# coder-irfan
+css program
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+form {
+  background: #f4f4f4;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+input, textarea, select {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 8px;
+}
